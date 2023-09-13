@@ -2,14 +2,14 @@
     padding: 0% 24px;
 font-size: 24px;    
 }
-.cabecalho {background-color: rgb(245, 11, 210);color: white; 
+.cabecalho {background-color: rgb(23, 18, 135);color: white; 
     display:flex;
 justify-content: space-around; padding: 2% 24px;}
 .cabecalho-imagem{width: 5%;}
 .cabecalho-lista-item{display: inline-block;margin: 0% 16px;
 }
 .imagem-escola {width: 25%;}
-.escola{background-image:linear-gradient(rgb(102, 36, 124),rgb(161, 43, 246));color: aliceblue;display: flex;}
+.escola{background-image:linear-gradient(rgb(56, 17, 129),rgb(145, 17, 236));color: aliceblue;display: flex;}
 
 .escola-conteudo{width:35%;}
 .escola{display:flex;justify-content: center;align-items: center;padding: 24px 0;}
